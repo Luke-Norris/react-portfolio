@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+    title: 'File Transfer Software',
+    description: "Developed a Cloud based application using AWS’s services. This project allows users to store files on a website using a S3 bucket. ",
+      image: '/images/aws-logo.png',
+      tags: ['AWS', 'HTML', 'MySQL DB', 'Python'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
@@ -18,19 +18,19 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
+    title: 'Drone Software',
+    description: "This project was a mockup for how drones could be used to help farmers with tasks around the farm. Using Java with the JavaFX UI framework, we were able to create an adapter that would map simulated commands to physical movements.",
+      image: '/images/drone.png',
+      tags: ['Java', 'JavaFX'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    title: 'TCP Chatroom',
+    description: "I Developed a command-line chatroom using Python and Transmission Control Protocol Sockets. The Client-Server program built using python’s socket library",
+    image: '/images/tcp.png',
+    tags: ['Python','TCP Sockets'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 3,
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Graduated From Vestavia Hills High School.', },
+  { year: 2019, text: 'Admitted to, and began taking classes UAB.', },
+  { year: 2020, text: 'Covid...', },
+  { year: 2021, text: 'Began taking more in depth programming classes.', },
+  { year: 2022, text: 'Graduation is near! Time to step into the real world.', }
 ];

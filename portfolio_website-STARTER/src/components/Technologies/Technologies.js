@@ -12,7 +12,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with many technologies throughout my programming time, here are a few of my
+      I have worked with many technologies throughout my time programming, here are a few of my
        favorites!
     </SectionText>
     <List>
